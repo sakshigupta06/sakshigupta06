@@ -17,6 +17,5 @@ I'm Sakshi Gupta, I am passionate about technologies and open source.
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="pull shark" width="100" height="100"><img src="https://camo.githubusercontent.com/86f82509ccbdf5bdc91be0424de1a4bf048beb0d81ac58f3607ece8e4cdab684/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f62616467652d2d6163762d36342e706e67" alt="arctic" width="100" height="100">
   
  📫 Get in touch: 
-- [twitter.com/Sakshi_0612](https://twitter.com/Sakshi_0612)
 - [linkedin.com/in/sakshigupta06](https://www.linkedin.com/in/sakshigupta06/)
 - [hashnode.com/@sakshi](https://sakshi.hashnode.dev/)
